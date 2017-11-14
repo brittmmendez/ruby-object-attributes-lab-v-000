@@ -12,5 +12,5 @@ class Dog
   end
 end
 
-name
-breed
+@name
+@breed
